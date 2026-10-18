@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/tawan-ok-ruekveerawattana-557340214"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tawan-ok&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views">
   <a href="https://github.com/Tawan-ok?tab=followers"><img src="https://img.shields.io/github/followers/Tawan-ok?label=Followers&style=flat&color=1e3a8a" alt="Followers"></a>
   <a href="https://github.com/Tawan-ok/lidserver-windows"><img src="https://img.shields.io/github/stars/Tawan-ok/lidserver-windows?label=LidServer%20stars&style=flat&color=facc15" alt="LidServer stars"></a>
